@@ -4,3 +4,4 @@ I am Nikolina.
 
 
 - 🔭 I’m currently working on AI models for Computer Vision.
+-    My background is in robotics. 
